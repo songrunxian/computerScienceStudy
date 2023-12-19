@@ -4,3 +4,4 @@
 0003. 体会输入模式“%d%c”可能会有输入失误
 0004. 从 sscanf sprintf 理解字符串的拼接和分割，测试样例为IP地址
 0005. fscanf fprintf, fopen fclose, fgets的用法
+0006. 通过位运算取反再次理解循环读入
