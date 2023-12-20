@@ -6,3 +6,4 @@
 0005. fscanf fprintf, fopen fclose, fgets的用法
 0006. 通过位运算取反再次理解循环读入
 0007. 重新理解fscanf fprintf fgetc 或者单纯的字符串输出
+0008. 理解数学库，注意编译时候需要gcc 1.c -o program -lm，本案例要求，求取一个数字的开立方
