@@ -13,4 +13,5 @@
 0012. 输入成绩n,输出成绩的等级：0 FOOLISH； 0 ~ 60 FAIL； 60 ~ 75 MEDIUM； 75 ~ 100 GOOD, 注意本题可以优化
 0013. 通过switch结构，输入一个n，n ==1 输出 one ; n == 2 输出two ; n == 3 输出three 否则输出error
 0014. 日期合法性 - https://blog.csdn.net/2301_79814782/article/details/133491237 - 优美改进版本
+0015. 判断回文数和CPU分支预判
 
